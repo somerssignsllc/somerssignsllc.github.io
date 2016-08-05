@@ -18,15 +18,52 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('../img/IMG_5568.JPG') no-repeat center center scroll;
+	background: url(../img/IMG_5568.JPG) no-repeat center center scroll ;
+    background-size:cover;
+    background-color:dimgray;
+    background-blend-mode: multiply;
     padding: 100px 0;
     height: 350ppx;
     width:1920;
 }
 
 .image-bg-fixed-height {
-	background: url("../img/IMG_5568.JPG") no-repeat center center scroll;
-    height: 250px;
+	background: url("../img/IMG_5546.JPG") no-repeat center center scroll;
+    background-size:cover;
+    background-color:lightgrey;
+    background-blend-mode: multiply;
+    padding: 100px 0;
+    height: 350px;
+    width:1920;
+}
+
+.image-bg-fixed-height2 {
+	background: url("../img/IMG_5629.JPG") no-repeat center center scroll;
+    background-size:cover;
+    background-color:lightgrey;
+    background-blend-mode: multiply;
+    padding: 100px 0;
+    height: 350px;
+    width:1920;
+}
+
+.image-bg-fixed-height3 {
+	background: url("../img/IMG_5632.JPG") no-repeat center center scroll;
+    background-size:cover;
+    background-color:lightgrey;
+    background-blend-mode: multiply;
+    padding: 100px 0;
+    height: 350px;
+    width:1920;
+}
+
+.image-bg-fixed-height4 {
+	background: url("../img/IMG_5605.JPG") no-repeat center center scroll;
+    background-size:cover;
+    background-color:lightgrey;
+    background-blend-mode: multiply;
+    padding: 100px 0;
+    height: 350px;
     width:1920;
 }
 
